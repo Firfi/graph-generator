@@ -2,12 +2,12 @@
   "version": "0.1",
   "language": "en",
   "words": [
-    "degit",
-    "esbuild",
     "graph-generator",
-    "octocat",
-    "rmrf",
-    "socio"
+    "graph",
+    "stream",
+    "generator",
+    "barabasi-albert",
+    "nlpa"
   ],
   "flagWords": [],
   "ignorePaths": [
