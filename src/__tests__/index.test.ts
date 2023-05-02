@@ -3,12 +3,12 @@ import { foobar } from "../index.js";
 
 describe("foobar()", () => {
   describe("given two positive integers", () => {
-    const first = 1;
-    const second = 2;
+    const first = 2;
+    const second = 3;
 
     describe("when called", () => {
       it("returns the sum of them multiplied by 3", () => {
-        expect(foobar(first, second)).toEqual(9);
+        expect(foobar(first, second)).toEqual((2+3)*3);
       });
     });
   });
